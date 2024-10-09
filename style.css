@@ -1,0 +1,106 @@
+body {
+    background-image: url('https://raw.githubusercontent.com/lalehhasapour/My-App-Images/refs/heads/main/1726449357250_938d2a08a8968eb49443a259dc589cca_2_3_photo.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: 'Tahoma', sans-serif;
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 800px;
+    margin: 50px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+h1 {
+    font-size: 36px;
+    color: #e74c3c;
+}
+
+h2 {
+    font-size: 28px;
+    color: #2980b9;
+}
+
+h3 {
+    font-size: 24px;
+    color: #8e44ad;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 15px 0;
+    color: #2c3e50;
+    text-align: justify;
+}
+
+.highlight {
+    background-color: #f1c40f;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+// فعلا هیچ کدی در اینجا نیست، اما می‌توانید در آینده کدهای جاوااسکریپت خود را اضافه کنید
+console.log("JavaScript file is loaded successfully!");
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ربات‌های هوشمند معاملاتی</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>معاملات هوشمند با ربات‌های پیشرفته، راهی به سوی سود بیشتر و ریسک کمتر</h1>
+    <p class="highlight">با استفاده از ربات‌های معاملاتی ما، بدون نیاز به تحلیل‌های پیچیده، سودآوری خود را در کریپتو، باینری‌آپشن و فارکس تضمین کنید.</p>
+    
+    <h2>اولین پلتفرم ربات‌های هوشمند معاملاتی</h2>
+    <p>اپلیکیشن ما اولین پلتفرمی است که ربات‌های هوشمند برای معامله‌گری در بازارهای کریپتو، فارکس و باینری‌آپشن ارائه می‌دهد. این ربات‌ها، با استفاده از پیشرفته‌ترین الگوریتم‌های ریاضیاتی و تحلیل‌های لحظه‌ای، تمام موانع انسانی مانند احساسات، ترس و طمع و استرس را از معاملات شما حذف می‌کنند. اکنون می‌توانید با اطمینان و آرامش در بازارهای مالی فعالیت کنید.</p>
+    
+    <h2>ویژگی‌های اصلی اپلیکیشن:</h2>
+    <h3>دقت بالا و سرعت بی‌نظیر</h3>
+    <p>ربات‌های ما در کسری از ثانیه میلیون‌ها داده را پردازش کرده و تصمیمات هوشمندانه‌ای می‌گیرند.</p>
+    
+    <h3>بدون احساسات، فقط منطق</h3>
+    <p>ربات‌های ما تنها با استفاده از منطق و تحلیل‌های ریاضیاتی با کمک هوش مصنوعی کار می‌کنند و از احساسات انسانی دور هستند.</p>
+    
+    <h3>اشتراک‌های متنوع</h3>
+    <p>انتخاب از بین بسته‌های هفتگی، ماهیانه و سالیانه که نیازهای مختلف کاربران را پوشش می‌دهد.</p>
+    
+    <h3>پشتیبانی از کریپتو، باینری‌آپشن و فارکس</h3>
+    <p>ربات‌های ما در دو بازار بزرگ دیجیتال و فارکس فعالیت می‌کنند.</p>
+    
+    <p class="highlight">همین حالا ثبت‌نام کنید و اشتراک خود را فعال کنید تا از ربات‌های معاملاتی ما بهره‌مند شوید!</p>
+    
+    <h2>با کمک پلتفرم حرفه‌ای ایران‌کوین:</h2>
+    <p>ترید کنید، سود ببرید، ریسک نکنید!<br>با ربات‌های ما، سود خود را به اوج برسانید!<br>ربات‌های هوشمند ما، سودآوری شما را تضمین می‌کنند!</p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
